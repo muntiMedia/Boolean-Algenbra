@@ -8,7 +8,7 @@ boolean variable
 
 # Truth Table ?
 
-| Commnd | Discribtion | 
+| X | Y| Z|
 | --------------- | --------------- |
 | X | Y | Z|
 | git add . | add all file to current directory| 
