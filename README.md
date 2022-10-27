@@ -1,10 +1,7 @@
 # Boolean-Algenbra
 
+Boolean algebra is mathematical that deals with with binary variable, and contain true or false value. 
 
-boolean Expression 
-boolean identity 
-boolean function
-boolean variable 
 
 # Truth Table ?
 
